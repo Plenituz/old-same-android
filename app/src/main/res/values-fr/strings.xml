@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Same Open Beta</string>
+    <string name="play">Jouer</string>
+    <string name="options">Rien</string>
+    <string name="music">Musique (pas implementé)</string>
+    <string name="tail_anim">Animation de la queue</string>
+    <string name="opt_info">Tu devras peut etre redémarré le jeu pour voir les changements</string>
+    <string name="tutoMsg">Tu veux voir le tutoriel ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="never">Jamais !</string>
+    <string name="moveTuto">Tu peux bouger la balle en glissant</string>
+    <string name="colorTuto">Bien ! Maintenant, pour changer de </string>
+    <string name="moveTuto2">ton doigt, essayes !</string>
+    <string name="colorTuto2">couleur : pendant que ton doigt est</string>
+    <string name="colorTuto3"> en train de bouger la boule, utilises </string>
+    <string name="colorTuto4">un; autre; doigt; et clique n\'importe</string>
+    <string name="colorTuto5">ou sur l\'écran. </string>
+    <string name="colorTuto6">Essaie de le faire x fois !</string>
+    <string name="tutoDie">Bien joué, t\'es mort au tuto !</string>
+    <string name="obstTuto">Tu ;;;perds ;;;si ;;;tu ;;;touches ;;;les</string>
+    <string name="obstTuto2">obstacles d\'une autre couleur que</string>
+    <string name="obstTuto3">toi ! Les ;obstacles ;de ;ta ;couleur</string>
+    <string name="obstTuto4">te traversent juste.</string>
+</resources>

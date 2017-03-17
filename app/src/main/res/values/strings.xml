@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Same Open Beta</string>
+    <string name="play">Play</string>
+    <string name="options">Nothing</string>
+    <string name="music">Music (not implemented)</string>
+    <string name="tail_anim">Tail Animation</string>
+    <string name="opt_info">You may need to restart the game to see the changes</string>
+    <string name="tutoMsg">Do you want to see the tutorial ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="never">Never</string>
+    <string name="moveTuto">You can move the ball by dragging it, try it !</string>
+    <string name="colorTuto">Good ! Now to change color : while your finger is moving the ball, use another finger and tap anywhere on the screen. Try doing it 5 times !</string>
+    <string name="moveTuto2">doigt, essayes</string>
+    <string name="colorTuto2">f</string>
+    <string name="colorTuto3">f</string>
+    <string name="colorTuto4">f</string>
+    <string name="colorTuto5">f</string>
+    <string name="colorTuto6">f</string>
+    <string name="tutoDie">Well done, you died during the tutorial !</string>
+    <string name="obstTuto">g</string>
+    <string name="obstTuto2">g</string>
+    <string name="obstTuto3">g</string>
+    <string name="obstTuto4">g</string>
+</resources>
